@@ -70,4 +70,4 @@ Dropped Ghost CMS (Node.js) in 2024 to build a custom stack from scratch.
 - 🌐 Portfolio: [lucasgraphic.com/categories](https://lucasgraphic.com/categories)
 - 🧪 Lab: [lucasgraphic.com/lab](https://lucasgraphic.com/lab)
 - 📝 Data: [lucasgraphic.com/data](https://lucasgraphic.com/data)
-- 🤖 NonSequitur: [[github.com/lucasgrochal/nonsequitur](https://github.com/lucasgrochal/nonsequitur](https://github.com/LucasGraphic/nonsequitur/))
+- 🤖 NonSequitur: [github.com/LucasGraphic/nonsequitur](https://github.com/LucasGraphic/nonsequitur/)
